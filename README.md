@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://spacehunter.es/do_img/global/logos/logo.png" alt="SpaceHunter V5 Logo" width="300" />
+  <img src="https://i.postimg.cc/DZ9j396W/256.png" alt="SpaceHunter V5 Logo" width="300" />
   
   # SpaceHunter V5 - Cliente Oficial 🚀
   
