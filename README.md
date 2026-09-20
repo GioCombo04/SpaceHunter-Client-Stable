@@ -39,7 +39,7 @@ Jugar a SpaceHunter V5 es más fácil que nunca:
 
 Si encuentras algún problema o tienes sugerencias para mejorar el cliente, no dudes en unirte a nuestra comunidad oficial:
 
-[![Discord](https://img.shields.io/badge/Discord-Únete_ahora-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tu-link-aqui)
+[![Discord](https://img.shields.io/badge/Discord-Únete_ahora-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/HUbyJz7)
 [![Website](https://img.shields.io/badge/Web-SpaceHunter.es-050a0f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://spacehunter.es/)
 
 <div align="center">
